@@ -2,9 +2,9 @@ Title                   : Calculating Near Misses for Farmet's Theorm
 Name of File            :
 External files created  :None
 External files used     :None
-Programer Name          :
-Email Address           :
-Course & Section Number :
+Programer Name          : Sai Pradeep Vure, Sharath Chandra Dondlapally
+Email Address           : SaiPradeepVure@lewisu.edu, SharathChandraDond@lewisu.edu
+Course & Section Number : SU22-CPSC-60500-001 & 002
 Date                    :
 Explanation             :
                         This program takes the value of n & k and finds the pair  of x , y ,z 
@@ -12,6 +12,7 @@ Explanation             :
 Resources               :
                         https://www.programiz.com/python-programming/modules/math
                         https://people.math.harvard.edu/~elkies/ferm.html
+
 
 
 This HW1 assignment is about to write a program that an interactive user search 
