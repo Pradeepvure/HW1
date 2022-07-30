@@ -51,3 +51,7 @@ Function Used:
     Discription :
         This function prompt the user to enter value of n and k 
         and call other functions to calculate relative error
+!----------------------
+
+to use this repository use: 
+git clone https://github.com/Pradeepvure/HW1.git
