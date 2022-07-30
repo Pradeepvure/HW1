@@ -56,3 +56,4 @@ Function Used:
 
 to use this repository use: 
 git clone https://github.com/Pradeepvure/HW1.git
+to run: python3  HW1.py
